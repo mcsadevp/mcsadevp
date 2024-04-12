@@ -37,8 +37,5 @@ Aspiro a ser un ingeniero informático Full stack con solidos conocimnientos en 
 - [Pionero - Talento Digital](https://www.acreditta.com/credential/1a55bc35-1745-4fde-8e70-26c6671fa929?utm_source=linkedin_profile&resource_type=badge&resource=1a55bc35-1745-4fde-8e70-26c6671fa929)
 - [Credly - Badges](https://www.credly.com/users/carrion/badges)
 
-## Estado Actual
-👨‍💻 Actualmente, 
-
 ## Enlaces
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mcsadevp/)
