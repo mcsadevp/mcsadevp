@@ -20,7 +20,7 @@ Aspiro a ser un ingeniero informático Full stack con sólidos conocimientos en 
 
 ## Frameworks
 - Spring Boot
-- React, Vue
+- Bootstrap, Vue
 - Flutter
 
 ## Editores
