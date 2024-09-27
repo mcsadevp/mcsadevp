@@ -3,7 +3,7 @@
 
 # Matías Carrión - Desarrollador Full Stack
 
-¡Hola! Soy estudiante de Ingeniería en Informática. Egresado de Generation como Full Stack Java y actualmente estoy participando en el Bootcamp Frontend de Talento Digital. Tengo metas claras y estoy trabajando para alcanzarlas.
+¡Hola! Soy estudiante de Ingeniería en Informática. Egresado de Generation como Full Stack Java y Frontend de Talento Digital. Tengo metas claras y estoy trabajando para alcanzarlas.
 
 ## Lenguajes 
 - 💻 Java
@@ -15,7 +15,7 @@
 
 ## Frameworks
 - Spring Boot
-- Bootstrap, Vue
+- Bootstrap, Vue , React
 - Flutter
 
 ## Editores
@@ -34,3 +34,5 @@
 
 ## Enlaces
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mcsadevp/)
+
+By McKinstong
